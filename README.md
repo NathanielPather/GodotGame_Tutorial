@@ -11,7 +11,7 @@ This is a game where players must dodge monsters to survive. The purpose of this
 
 <h2>Demo</h2>
 <ul>
-  <li>Soon</li>
+  <li>https://lexhanatin.itch.io/dodge-the-creeps</li>
 </ul>
 
 <h2>Features</h2>
